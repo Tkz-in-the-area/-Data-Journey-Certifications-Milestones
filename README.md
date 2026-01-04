@@ -1,5 +1,3 @@
-# Data Journey: Certifications & Milestones
-
 This repository serves as a curated collection of my Data Analytics and Data Science certifications. It acts as documented proof of continuous learning, effort, and personal agency in developing strong analytical and technical capabilities.
 By keeping my certifications organized and publicly accessible, I aim to:
 • 	Track my professional growth over time
